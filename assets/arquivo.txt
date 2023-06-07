@@ -1,0 +1,4 @@
+1#Bateria ruim#Hardware#Notebook descarrega muito rápido e quando chega a 15% ele se desliga
+2#Travamento#Software#Notebook trava muito
+3#Adicionar impressora#Impressora#Preciso usar a impressora "produção"
+4#Wifi não funciona#Rede#Notebook não conecta no wifi1#teste#Hardware#Teste de criação
